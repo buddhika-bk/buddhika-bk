@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Web Development | WordPress | AppSheet**
+- 💬 Ask me about **Web Development | WordPress | JAVASCRIPT | HTML | CSS | JAVA | AppSheet |**
 
 - 📫 How to reach me **buddhikakaveeja2003@gmail.com**
 
