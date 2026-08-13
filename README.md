@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buddhika Kaveeja</h1>
-<h3 align="center">A passionate web developer from Sri Lanka</h3>
+<h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhika-bk&label=Profile%20views&color=0e75b6&style=flat" alt="buddhika-bk" /> </p>
 
