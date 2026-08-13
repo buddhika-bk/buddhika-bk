@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Buddhika Kaveeja</h1>
+<h1 align="center">Hi 👋, I'm Buddhika Kaveeja </h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhika-bk&label=Profile%20views&color=0e75b6&style=flat" alt="buddhika-bk" /> </p>
 
 ---
 
-- 🔭 I’m currently working on **ITP Project**
+- 🔭 I’m currently working on **Webpoint Lanka (PVT) Ltd**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Web Development | WordPress | JAVASCRIPT | HTML | CSS | JAVA | AppSheet |**
+- 💬 Ask me about **Web Development | Software Development | WordPress | JAVASCRIPT | HTML | CSS | JAVA | AppSheet | React | React Native**
 
-- 📫 How to reach me **buddhikakaveeja2003@gmail.com**
+- 📫 How to reach me **buddhika@webpoint.lk**
 
-- ⚡ Fun fact **Call me at bk**
+- ⚡ Fun fact **Call me at buddhika**
 ----
 
 <h3 align="left">Connect with me:</h3>
